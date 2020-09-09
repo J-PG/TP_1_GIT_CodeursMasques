@@ -3,6 +3,6 @@ public class MaClass
     private int mSize;
     public UneClasse()
     {
-        mZize=50;
+        mZize=10;
     }
 }
